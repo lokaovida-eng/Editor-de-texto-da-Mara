@@ -1,11 +1,19 @@
 # 📄 Editor de Texto da Mara - Rich Text Formatting & PDF Generator
 
-![Android](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android)
-![Java](https://img.shields.io/badge/Language-Java_/_Kotlin-ED8B00?style=for-the-badge&logo=openjdk)
-![PDF](https://img.shields.io/badge/Feature-Direct_PDF_Export-FF0000?style=for-the-badge&logo=adobeacrobatreader)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+[![Download APK](https://img.shields.io/badge/Download_APK-Direct_Installer-00F0FF?style=for-the-badge&logo=android)](https://github.com/lokaovida-eng/Editor-de-texto-da-Mara/releases)
+[![Android](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android)](https://github.com/lokaovida-eng/Editor-de-texto-da-Mara)
+[![Java](https://img.shields.io/badge/Language-Java_/_Kotlin-ED8B00?style=for-the-badge&logo=openjdk)](https://github.com/lokaovida-eng/Editor-de-texto-da-Mara)
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://github.com/lokaovida-eng/Editor-de-texto-da-Mara)
 
 **Editor de Texto da Mara** is a rich text formatting editor and document management application for Android. Designed for seamless productivity on mobile devices, it allows users to format text, embed inline images, export documents directly to high-quality PDF files, or print documents straight from the application.
+
+---
+
+## 📥 Direct Download
+
+Click the badge below to download the latest release installer directly to your device:
+
+👉 **[Download Editor-de-texto-da-Mara.apk (Direct Installer)](https://github.com/lokaovida-eng/Editor-de-texto-da-Mara/releases)**
 
 ---
 
