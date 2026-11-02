@@ -1,6 +1,6 @@
 # 📄 Editor de Texto da Mara - Rich Text Formatting & PDF Generator
 
-[![Download APK](https://img.shields.io/badge/Download_APK-Direct_Installer-00F0FF?style=for-the-badge&logo=android)](https://github.com/lokaovida-eng/Editor-de-texto-da-Mara/releases)
+[![Download APK](https://img.shields.io/badge/Download_APK-Direct_Installer_v1.0-00F0FF?style=for-the-badge&logo=android)](https://github.com/lokaovida-eng/Editor-de-texto-da-Mara/raw/main/Editor%20Mara.apk)
 [![Android](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android)](https://github.com/lokaovida-eng/Editor-de-texto-da-Mara)
 [![Java](https://img.shields.io/badge/Language-Java_/_Kotlin-ED8B00?style=for-the-badge&logo=openjdk)](https://github.com/lokaovida-eng/Editor-de-texto-da-Mara)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://github.com/lokaovida-eng/Editor-de-texto-da-Mara)
@@ -13,7 +13,7 @@
 
 Click the badge below to download the latest release installer directly to your device:
 
-👉 **[Download Editor-de-texto-da-Mara.apk (Direct Installer)](https://github.com/lokaovida-eng/Editor-de-texto-da-Mara/releases)**
+👉 **[Download Editor Mara v1.0.apk (Direct 13.0 MB Installer)](https://github.com/lokaovida-eng/Editor-de-texto-da-Mara/raw/main/Editor%20Mara.apk)**
 
 ---
 
